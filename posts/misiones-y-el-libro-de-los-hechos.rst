@@ -7,6 +7,7 @@
 .. description: Apuntes de la Clase 1 de Vimeo
 .. type: text
 
+
 "Si tu corazón no está en la obra, Dios no va a hacer nada".
 La obra misionera no se puede hacer sin oración ni una Biblia abierta.
 Necesario una biblia y un mapa abiertos.
