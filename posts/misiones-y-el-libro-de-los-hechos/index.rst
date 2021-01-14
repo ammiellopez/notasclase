@@ -1,10 +1,10 @@
-.. title: Misiones y el libro de los Hechos
+.. title: Misiones y el libro de los Hechos: Clase 1
 .. slug: misiones-y-el-libro-de-los-hechos
 .. date: 2021-01-14 09:57:49 UTC-03:00
-.. tags: notas
+.. tags: Notas de clase
 .. category: Misiones y el libro de los Hechos
 .. link: 
-.. description: Apuntes de la materia
+.. description: Apuntes de la Clase 1 de Vimeo
 .. type: text
 
 "Si tu corazón no está en la obra, Dios no va a hacer nada".
@@ -18,6 +18,7 @@ Introducción
 =============
 
 No se puede pensar en la obra misionera sin ver su base en el libro de los Hechos.
+
 * Hechos es un **puente** entre los evangelios y las epístolas.
 * Es también una **llave**
 * Es una **bisagra**

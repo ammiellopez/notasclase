@@ -1,15 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Notas de Clases (Publicaciones sobre notas)</title><link>https://example.com/</link><description></description><atom:link href="https://example.com/categories/notas.xml" rel="self" type="application/rss+xml"></atom:link><language>es</language><copyright>Contents © 2021 &lt;a href="mailto:ammiel.blog@gmail.com"&gt;Ammiel Lopez&lt;/a&gt; </copyright><lastBuildDate>Thu, 14 Jan 2021 13:04:03 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Misiones y el libro de los Hechos</title><link>https://example.com/posts/misiones-y-el-libro-de-los-hechos/</link><dc:creator>Ammiel Lopez</dc:creator><description>&lt;div&gt;&lt;p&gt;"Si tu corazón no está en la obra, Dios no va a hacer nada".
+<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Notas de Clases (Publicaciones sobre Notas de clase)</title><link>https://example.com/</link><description></description><atom:link href="https://example.com/categories/notas-de-clase.xml" rel="self" type="application/rss+xml"></atom:link><language>es</language><copyright>Contents © 2021 &lt;a href="mailto:ammiel.blog@gmail.com"&gt;Ammiel Lopez&lt;/a&gt; </copyright><lastBuildDate>Thu, 14 Jan 2021 14:51:21 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Misiones y el libro de los Hechos: Clase 1</title><link>https://example.com/posts/misiones-y-el-libro-de-los-hechos/</link><dc:creator>Ammiel Lopez</dc:creator><description>&lt;div&gt;&lt;p&gt;"Si tu corazón no está en la obra, Dios no va a hacer nada".
 La obra misionera no se puede hacer sin oración ni una Biblia abierta.
 Necesario una biblia y un mapa abiertos.&lt;/p&gt;
 &lt;div class="section" id="hechos"&gt;
 &lt;h2&gt;Hechos&lt;/h2&gt;
 &lt;div class="section" id="introduccion"&gt;
 &lt;h3&gt;Introducción&lt;/h3&gt;
-&lt;p&gt;No se puede pensar en la obra misionera sin ver su base en el libro de los Hechos.
-* Hechos es un &lt;strong&gt;puente&lt;/strong&gt; entre los evangelios y las epístolas.
-* Es también una &lt;strong&gt;llave&lt;/strong&gt;
-* Es una &lt;strong&gt;bisagra&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;No se puede pensar en la obra misionera sin ver su base en el libro de los Hechos.&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;&lt;p&gt;Hechos es un &lt;strong&gt;puente&lt;/strong&gt; entre los evangelios y las epístolas.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Es también una &lt;strong&gt;llave&lt;/strong&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Es una &lt;strong&gt;bisagra&lt;/strong&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
 &lt;div class="section" id="caracteristicas-del-libro"&gt;
 &lt;h4&gt;Características del libro&lt;/h4&gt;
 &lt;ol class="arabic simple"&gt;
@@ -96,4 +98,4 @@ La salvación siempre fue por fe, tanto en el AT como en el NT.&lt;/p&gt;&lt;/li
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
-&lt;/div&gt;&lt;/div&gt;</description><category>notas</category><guid>https://example.com/posts/misiones-y-el-libro-de-los-hechos/</guid><pubDate>Thu, 14 Jan 2021 12:57:49 GMT</pubDate></item></channel></rss>
+&lt;/div&gt;&lt;/div&gt;</description><category>Notas de clase</category><guid>https://example.com/posts/misiones-y-el-libro-de-los-hechos/</guid><pubDate>Thu, 14 Jan 2021 12:57:49 GMT</pubDate></item></channel></rss>
