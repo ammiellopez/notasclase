@@ -266,13 +266,13 @@ TIMEZONE = "America/Argentina/Cordoba"
 # Date format used to display post dates. (translatable)
 # Used by babel.dates, CLDR style: http://cldr.unicode.org/translation/date-time
 # You can also use 'full', 'long', 'medium', or 'short'
-# DATE_FORMAT = 'yyyy-MM-dd HH:mm'
+DATE_FORMAT = 'dd-MM-yyyy'
 
 # Date format used to display post dates, if local dates are used. (translatable)
 # Used by Luxon: https://moment.github.io/luxon/docs/manual/formatting
 # Example for presets: {'preset': True, 'format': 'DATE_FULL'}
 # LUXON_DATE_FORMAT = {
-#     DEFAULT_LANG: {'preset': False, 'format': 'yyyy-MM-dd HH:mm'},
+#     DEFAULT_LANG: {'preset': True, 'format': 'DATE_HUGE'},
 # }
 
 # Date fanciness.
@@ -370,7 +370,7 @@ COMPILERS = {
 # This option lets you use an image to be used if the post doesn't have it.
 # The default is None, valid values are URLs or output paths like
 # "/images/foo.jpg"
-# DEFAULT_PREVIEW_IMAGE = None
+DEFAULT_PREVIEW_IMAGE = "images/notas.jpg"
 
 # If you want to hide the title of your website (for example, if your logo
 # already contains the text), set this to False.
