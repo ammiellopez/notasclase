@@ -19,6 +19,8 @@ El libro de los Hechos trata sobre los *hechos del Cristo resucitado*.
 
 Estos eventos tan importantes no son mencionados en Hechos, por tanto la fecha más probable de escritura es el *62 d.C*.
 
+.. TEASER_END: Seguir leyendo
+
 Un bosquejo del libro
 #######################
 

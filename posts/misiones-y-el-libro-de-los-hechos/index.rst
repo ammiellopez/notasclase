@@ -30,6 +30,8 @@ Características del libro
 2. Es un libro *histórico*. El único documento sobre el nacimiento y crecimiento de la iglesia.
 3. Es un libro *apologético*. Una defensa del apostolado de Pablo.
 
+.. TEASER_END: Seguir leyendo
+
 Transicional
 *************
 * Marca la transición entre la *ley* y la *gracia* de Dios.
