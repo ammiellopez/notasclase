@@ -60,6 +60,9 @@ bg-dark
 <article class="listpage"><header><h1>Publicaciones del año 2021</h1>
     </header><ul class="postlist">
 <li>
+<time class="listdate" datetime="2021-02-16T17:07:19-03:00" title="16-02-2021">16-02-2021</time><a href="../posts/misiones-y-el-libro-de-los-hechos-clase-6/" class="listtitle">Misiones y el libro de los Hechos: Clase 6</a>
+</li>
+        <li>
 <time class="listdate" datetime="2021-02-08T11:04:59-03:00" title="08-02-2021">08-02-2021</time><a href="../posts/misiones-y-el-libro-de-los-hechos-clase-5/" class="listtitle">Misiones y el libro de los Hechos: Clase 5</a>
 </li>
         <li>
@@ -83,7 +86,10 @@ bg-dark
 </div>
 
 
-        <script src="../assets/js/all-nocdn.js"></script><script>
+        <script src="../assets/js/all-nocdn.js"></script><script src="../assets/js/luxon.min.js"></script><!-- fancy dates --><script>
+        luxon.Settings.defaultLocale = "es";
+        fancydates(1, {"preset": true, "format": "DATE_FULL"});
+        </script><!-- end fancy dates --><script>
     baguetteBox.run('div#content', {
         ignoreClass: 'islink',
         captions: function(element){var i=element.getElementsByTagName('img')[0];return i===undefined?'':i.alt;}});
