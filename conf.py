@@ -271,9 +271,9 @@ DATE_FORMAT = 'dd-MM-yyyy'
 # Date format used to display post dates, if local dates are used. (translatable)
 # Used by Luxon: https://moment.github.io/luxon/docs/manual/formatting
 # Example for presets: {'preset': True, 'format': 'DATE_FULL'}
-# LUXON_DATE_FORMAT = {
-#     DEFAULT_LANG: {'preset': True, 'format': 'DATE_HUGE'},
-# }
+LUXON_DATE_FORMAT = {
+     DEFAULT_LANG: {'preset': True, 'format': 'DATE_FULL'},
+ }
 
 # Date fanciness.
 #
@@ -282,7 +282,7 @@ DATE_FORMAT = 'dd-MM-yyyy'
 # 2 = using a string like “2 days ago” (JS, using Luxon)
 #
 # Your theme must support it, Bootstrap already does.
-# DATE_FANCINESS = 0
+DATE_FANCINESS = 1
 
 # Customize the locale/region used for a language.
 # For example, to use British instead of US English: LOCALES = {'en': 'en_GB'}
